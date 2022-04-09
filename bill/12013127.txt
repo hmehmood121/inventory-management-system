@@ -1,0 +1,21 @@
+
+		Classic Cleaners
+Phone No. 0302-8009788, Karachi Shop#1,
+Tauheed Commercial Plot#35-C, St-25
+Customer Name: Hina Bill No.12013127
+Date:2022-01-12 Delivery Date:2022-01-15
+===============================================
+Product Name  QTY 	Price
+===============================================
+        
+Coat			1	Rs.50.0
+Dupatta			2	Rs.60.0
+Carpet			1	Rs.200.0
+Kamiz			1	Rs.60.0
+===============================================
+Bill Amount			Rs.370.0
+Advance			Rs.0
+Balance				Rs.370.0
+===============================================
+
+        
